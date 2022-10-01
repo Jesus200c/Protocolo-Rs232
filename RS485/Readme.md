@@ -3,6 +3,8 @@ Repositorio del laboratorio #2 de comunicaciones de la UMNG
 
 El presente repositorio tendra el codigo del protocolo de la comunicacion RS485 y la toma de datos de la corriente con el proposito de comprender la toma de datos meteorologicos, ademas tendra un apartado de la wiki donde se describira los diferentes procedimientos y documentacion que se tomo en cuenta para la ejecutacion de este proyecto.
 
+Video de los resultados: https://youtu.be/6dSesOVkrzM
+
 Intregantes:
 
 Juan Manuel Salcedo

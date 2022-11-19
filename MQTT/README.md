@@ -1,4 +1,4 @@
-Protocolo-RS485 Repositorio del laboratorio #4 de comunicaciones de la UMNG
+Proyecto final MQTT-RFID Repositorio del laboratorio #4 de comunicaciones de la UMNG
 
 El presente repositorio tendra como tematica de IoT con protocolo MQTT
 

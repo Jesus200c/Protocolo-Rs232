@@ -1,0 +1,5 @@
+Deben utilizar la tecnología de identificación y comunicación RFID (Radio-frequency identification) en cada uno de sus proyectos. 
+Utilizar el protocolo de comunicación HTTP (pueden utilizar las librerías de Ubidots)
+Utilización de plataforma IoT de Ubidots o implementar un portal web donde gestionen la información de sus proyectos. 
+Los datos que generen sus proyectos deben almacenarse en la nube
+Deben poder acceder a la información que generan sus proyectos desde un computador y un celular (Ubidots tiene también app para android).
